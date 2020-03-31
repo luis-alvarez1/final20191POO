@@ -1,0 +1,41 @@
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\bin\Debug\ActFinalPro.exe.config
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\bin\Debug\ActFinalPro.exe
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\bin\Debug\ActFinalPro.pdb
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.csprojResolveAssemblyReference.cache
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.Properties.Resources.resources
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.csproj.GenerateResource.Cache
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.csproj.CoreCompileInputs.cache
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.exe
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.pdb
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.Details_glasses.resources
+C:\Users\lds\source\repos\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.MainPage.resources
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\bin\Debug\ActFinalPro.exe.config
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\bin\Debug\ActFinalPro.exe
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\bin\Debug\ActFinalPro.pdb
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.csprojAssemblyReference.cache
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.MainAirPodsII.resources
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.MainGlases.resources
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.MainPage.resources
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.MainShoes.resources
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.Properties.Resources.resources
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.csproj.GenerateResource.cache
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.csproj.CoreCompileInputs.cache
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.exe
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.pdb
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\bin\Debug\ActFinalPro.exe.config
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\bin\Debug\ActFinalPro.exe
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\bin\Debug\ActFinalPro.pdb
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.MainAirPodsII.resources
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.MainGlases.resources
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.MainPage.resources
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.MainShoes.resources
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.Properties.Resources.resources
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.exe
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.pdb
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.Details_Client.resources
+C:\Users\jepas\Desktop\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.Resumen.resources
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.Details_Client.resources
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.Resumen.resources
+C:\Users\admin\Desktop\Programación\Proyectos C#\ActFinalPro\ActFinalPro\ActFinalPro\obj\Debug\ActFinalPro.csproj.CoreCompileInputs.cache
